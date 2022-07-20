@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Story App</string>
+    <string name="greeting" tools:keep="@string/greeting">Daftar Sekarang!\nBiar kami tau cerita kamu</string>
+    <string name="login" tools:keep="@string/login">Masuk</string>
+    <string name="regis" tools:keep="@string/regis">Daftar</string>
+    <string name="name" tools:keep="@string/name">Nama</string>
+    <string name="or_regis" tools:keep="@string/or_regis">atau Daftar</string>
+    <string name="logout" tools:keep="@string/logout">Keluar</string>
+    <string name="cdesc_back_button" tools:keep="@string/cdesc_back_button">Tombol Kembali</string>
+    <string name="cdesc_add_story_button" tools:keep="@string/cdesc_add_story_button">Tombol tambahkan cerita</string>
+    <string name="cdesc_menu_button" tools:keep="@string/cdesc_menu_button">Tombol menu</string>
+    <string name="cdesc_capture_image" tools:keep="@string/cdesc_capture_image">Tangkap gambar</string>
+    <string name="cdesc_switch_camera" tools:keep="@string/cdesc_switch_camera">Putar kamera</string>
+    <string name="email_not_valid">Email tidak valid!</string>
+    <string name="cdesc_pick_image" tools:keep="@string/cdesc_pick_image">Pilih gambar</string>
+    <string name="cdesc_pick_from_camera" tools:keep="@string/cdesc_pick_from_camera">Ambil dari kamera</string>
+    <string name="cdesc_pick_image_from" tools:keep="@string/cdesc_pick_image_from">Pilih gambar dari:</string>
+    <string name="must_not_be_empty">Tidak boleh kosong!</string>
+    <string name="choose_image_method">Please choose image first!</string>
+    <string name="et_email_error_message">Alamat email tidak valid</string>
+    <string name="et_password_error_message">Kata sandi harus lebih dari 6 karakter</string>
+    <string name="login_failed">Gagal masuk, pastikan email dan kata sandi sudah benar!</string>
+    <string name="regis_failed">Gagal mendaftar, coba lagi nanti!</string>
+    <string name="load_stories_failed">Gagal memuat data, coba lagi nanti!</string>
+    <string name="post" tools:keep="@string/post">Posting</string>
+    <string name="image" tools:keep="@string/image">Gambar</string>
+    <string name="caption" tools:keep="@string/caption">Keterangan</string>
+    <string name="camera" tools:keep="@string/camera">Kamera</string>
+    <string name="gallery" tools:keep="@string/gallery">Galeri</string>
+    <string name="pick_from_gallery" tools:keep="@string/pick_from_gallery">Pilih dari galeri</string>
+    <string name="write_your_caption" tools:keep="@string/write_your_caption">Tuliskan caption kamu…</string>
+    <string name="people_story" tools:keep="@string/people_story">Cerita Pengguna</string>
+    <string name="no_story" tools:keep="@string/no_story">Tidak ada cerita</string>
+    <string name="change_language" tools:keep="@string/change_language">Ganti Bahasa</string>
+    <string name="failed_launch_camera">Gagal memuat kamera!</string>
+    <string name="failed_take_picture">Gagal mengambil gambar!</string>
+    <string name="succes_regis">Daftar berhasil, silahkan Masuk untuk melanjutkan</string>
+    <string name="desc_map_button">Tombol Peta</string>
+    <string name="save">Simpan</string>
+    <string name="image_login">Gambar Login</string>
+    <string name="register_image">Gambar Register</string>
+</resources>

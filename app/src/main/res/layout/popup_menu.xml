@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu_background_rounded"
+    android:orientation="vertical"
+    tools:keep="@layout/popup_menu">
+
+    <TextView
+        android:id="@+id/tv_menu_languages"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="16dp"
+        android:text="@string/change_language"
+        android:textAppearance="@style/TextAppearance.StoryApp.Body1"
+        android:textColor="?attr/colorOnPrimary" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="?attr/colorOnPrimary" />
+
+    <TextView
+        android:id="@+id/tv_menu_logout"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="16dp"
+        android:text="@string/logout"
+        android:textAppearance="@style/TextAppearance.StoryApp.Body1"
+        android:textColor="?attr/colorOnPrimary" />
+
+</LinearLayout>
